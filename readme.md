@@ -14,7 +14,7 @@ This project is a modal in javascript, where it is possible to open youtube vide
 ## Design
 
 >Here are some pictures about the page design:
-![Clima app](https://github.com/rcaondev/weather_app/blob/main/preview.png?raw=true)
+![Clima app](https://github.com/rcaondev/ballon_dor/blob/main/img/img1.png)
 
 >![Clima app](https://github.com/rcaondev/weather_app/blob/main/preview.png?raw=true)
 
@@ -28,8 +28,8 @@ This project is a modal in javascript, where it is possible to open youtube vide
 Tools added to code with external links
 
 
-Icons [Feather](https://feathericons.com):
-Thumbnails [boingboing](https://boingboing.net)
+Icons [Feather](https://feathericons.com);
+Thumbnails [boingboing](https://boingboing.net);
 Videos [Youtube](https://www.youtube.com)
 
 
